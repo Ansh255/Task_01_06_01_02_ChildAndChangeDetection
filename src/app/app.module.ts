@@ -11,14 +11,11 @@ import { OnpushComponent } from './onpush/onpush.component';
 
 @NgModule({
   declarations: [
-    AppComponent,
-   
+    AppComponent,  
     ChildComponent,
     ParentComponent,
     DefaultComponent,
     OnpushComponent,
-  
-   
   ],
   imports: [
     BrowserModule
